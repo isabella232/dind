@@ -1,2 +1,7 @@
 # dind
-Docker in Docker
+
+Docker in Docker with bash and git
+
+# Publish
+
+`make`
